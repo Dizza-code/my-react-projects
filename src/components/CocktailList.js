@@ -7,6 +7,7 @@ const CocktailList = () => {
   return (
     <div>
       <h2>cocktail list component</h2>
+      <h4>Cocktail list</h4>
     </div>
   )
 }
